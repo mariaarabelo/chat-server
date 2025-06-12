@@ -1,0 +1,6 @@
+mari:$2a$10$KshLVLAkzwVZ.jLS/mdWz.yy/C0dHnAzneYEMR3D/7nF9nfU5sLGW
+joao:$2a$10$xanMZk2p.CCfnpcmCD7bnugbRK3xNaTIOgV6z66wu7helmq.QJdxO
+maria:$2a$10$.7Tv2lTP8inDDEQAlgYyXOL7wlkkdve86Oq.XRdBcpk0eZvpCXpuO
+ana:$2a$10$YijP3l5b5wH.IcjZTBqmROZYDh9GcTbkvKl.0DXkWZY8wcNEk3tXu
+pedro:$2a$10$3Y1Ljax6OaGYhK4kXJrvKOWv51SxPm/JNSG61CG6/ZWimh1Ghancy
+darek:$2a$10$kEUV2er7qrf/3DmecQJKAugRWi23MEHL7K8GRDgQHek3XPMpXF9Na

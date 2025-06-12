@@ -1,0 +1,4 @@
+main
+library
+gaming
+AI lounge
