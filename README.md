@@ -1,6 +1,7 @@
 # 💬 Chat Server & Client 
 A multi-room, token-authenticated chat system built in Java using virtual threads.
 
+This project was developed by Maria Rabelo, Manoela Blanke and Amanda Silva.
 
 ## 🧩 Requirements
 
